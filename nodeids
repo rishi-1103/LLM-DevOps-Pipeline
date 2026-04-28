@@ -1,0 +1,15 @@
+[
+  "test_pipeline.py::test_extract_empty_text_returns_400",
+  "test_pipeline.py::test_extract_entities_success",
+  "test_pipeline.py::test_extract_keywords_success",
+  "test_pipeline.py::test_extract_summary_success",
+  "test_pipeline.py::test_extract_text_too_long_returns_400",
+  "test_pipeline.py::test_health_returns_200",
+  "test_pipeline.py::test_pipeline_entity_extraction",
+  "test_pipeline.py::test_pipeline_invalid_type_raises",
+  "test_pipeline.py::test_pipeline_keyword_extraction",
+  "test_pipeline.py::test_pipeline_status",
+  "test_pipeline.py::test_ready_returns_200",
+  "test_pipeline.py::test_root_returns_service_info",
+  "test_pipeline.py::test_summarisation_pipeline"
+]
